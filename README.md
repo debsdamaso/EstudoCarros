@@ -1,4 +1,4 @@
-# EstudoCarros
+# Estudo de Carros e preços (car and prices)
 Análise de dados referente à um dataset sobre o preços de carros,
 com o objetivo final de prever o valor de um carro.
 
